@@ -1,6 +1,6 @@
 import type React from 'react'
 import type { ReactElement } from 'react'
-import { RectangleStackIcon } from '@heroicons/react/24/solid'
+import { RectangleStackIcon } from '@heroicons/react/24/solid/index'
 
 export const SimpleCentered = (): ReactElement => {
   return (
