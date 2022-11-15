@@ -1,0 +1,1 @@
+export { SimpleCentered } from './SimpleCentered'
